@@ -1,2 +1,3 @@
 # hello-world
-test and daily practice
+//this is using for test and daily practice
+//created by JC
